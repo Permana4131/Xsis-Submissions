@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Xsis Assessment</string>
+    <string name="title">Netplix</string>
+    <string name="latest">Latest</string>
+    <string name="popular">Popular</string>
+    <string name="search">Search</string>
+</resources>
